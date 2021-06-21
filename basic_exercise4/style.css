@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body{
+    background-color:darkred;
+   
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;  
+}
+.container{
+    border:  black;
+    top: 0px;
+    margin-left: 300px;
+    margin-right: 400px;
+    height:700px;
+    width:65%
+}
+.logo{
+    width: 200px;
+    height: 150px;
+    margin-right: 20px;
+   
+}
+.line1{
+    color: antiquewhite;
+    font-size: 25px;
+   margin-bottom: 0px;
+   letter-spacing: 1px;
+ 
+}
+.line2{
+    font-size: 15px;
+     color: antiquewhite; 
+     margin-left: 10px;
+     letter-spacing: 1px;
+     
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-left: 200px;
+    
+}
+.subimg{
+    width:25px;
+    height:25px;
+    border-radius: 50px;
+    margin-right: 3px; 
+   
+}
+
+li{
+    display:inline;
+    padding:15px;
+    border: 3px white;
+    margin-left: 0px;    
+}
+   
+ li a{
+    text-decoration: none;
+    font-family:'Roboto';
+    font-size: 15px;
+    color:antiquewhite;
+    border: 3px white;
+   
+    
+}
+.container2{
+    background-color:rgba(20, 20, 20, 0.836);
+    height:50px;
+    display: flex;
+    margin-top: 3px;
+    
+}
+ li:hover{
+    background-color:grey;
+}
+ 
+
+.container3{
+    background-color: antiquewhite;
+    height:40%;
+    display: flex;
+    flex-direction: row;
+   
+}
+.line3{
+    color:darkred; font-size: 20px;
+    letter-spacing: 1px;
+    margin-left: 3px; 
+}
+.subimg1{
+  height:100px;
+  width:200px;
+  margin-left: 3px;
+  margin-right: 3px;
+  float:left;
+}
+footer{
+  background-color:rgba(20, 20, 20, 0.836);
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  position: absolute;
+ 
+  right:0;
+ left:0;
+ margin-left: 305px;
+ margin-right:235px;
+
+}
+   
+
+
+
+  
+   
+   
+   

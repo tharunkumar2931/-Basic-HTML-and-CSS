@@ -1,0 +1,46 @@
+.container{
+    border: solid black 1px;
+    margin-left: 300px;
+    margin-right: 400px;
+   height:650px;
+    width:60%
+}
+
+.img{
+  text-align:left;
+  margin-left: 10px;
+ 
+}
+.align{
+    text-align: center;
+}
+.link{
+    text-align: center;
+    text-decoration: underline;
+    color:violet;
+    font-family:'Monotype Corsiva';
+    font-size: 18pt;
+}
+.subImg{
+ border:solid blue 1px;
+ border-radius: 10pt;
+ text-align: center;
+
+}
+.footer{
+    margin:20px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    position: absolute;
+    bottom: 0;
+    right:0;
+    left:0;
+    margin-left: 310px;
+    margin-right: 310px;
+   
+}
+
+

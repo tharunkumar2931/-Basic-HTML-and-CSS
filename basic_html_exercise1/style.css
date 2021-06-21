@@ -1,0 +1,22 @@
+.Image{
+    text-align: center;
+    border:1px;
+    width:"960px";
+    height:"275px";
+    text-decoration:none
+}
+.link{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.subImg{
+    text-align: center;
+    border: solid black 1px ;
+  
+}
+
+.align{
+    text-align: center;
+}

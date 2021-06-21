@@ -1,0 +1,106 @@
+.header{
+   margin-left: 50px;
+   background-image: linear-gradient(to left, rgba(180, 6, 6, 0.884), rgb(92, 2, 2));
+   margin-top: 0;
+   margin-right: 40px;
+   height:110px;
+ 
+}
+.options{
+    color: white;
+    padding:10px;
+    font-size: 20px;
+    text-decoration: none; 
+
+}
+.options1{
+    background-image: linear-gradient(to right, rgba(180, 6, 6, 0.884), rgb(92, 2, 2));
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 40px;
+    position:relative;
+}
+
+.options:hover{
+    color: green;
+}
+   
+   
+.container {
+    display: flex;
+     flex-direction: row; 
+     margin-left: 50px;
+}
+
+.pic{
+     border: 3px solid gray; 
+     border-radius: 10px;
+     height:150px; width:300px;
+    margin-right: 5px;
+     padding: 5px;
+}
+.pic:hover{
+    
+}
+
+.menu{
+   
+    font-style: italic;
+    color: darkred; 
+    font-size: 25px;
+    position: absolute;
+    top:150px;left:1100px;
+    margin-bottom: 5px;
+   
+}
+
+
+footer{
+    margin:20px;
+  background-color:darkred;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  position: absolute;
+ 
+  right:0;
+ left:0;
+ margin-left: 50px;
+ margin-right:40px ;
+
+}
+.flex-contain {
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top:160px;left:1200px;
+}
+.flex-container {
+    display: flex;
+    flex-direction:column;
+    width:25%;
+    position: absolute;
+    top:210px;left:1100px;
+}
+    
+  
+  .element:hover{
+    color:green;
+    background-color:gray;
+    }
+    
+    .flex-container > div {
+      background-color:darkred;
+      margin:3px;
+      font-size: 20px;
+      padding:13px;
+      font-size: 15px;
+      color: white;
+    }
+
+   
+
+
+
+
